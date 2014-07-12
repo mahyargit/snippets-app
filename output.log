@@ -52,3 +52,10 @@ INFO:root:Writing 4:5 to snippets.csv
 DEBUG:root:Opening file
 DEBUG:root:Writing snippet to file
 DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing 6:8 to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
